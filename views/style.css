@@ -23,6 +23,10 @@ input, select{
     border-radius: 15px;
 }
 
+b{
+    color: crimson;
+}
+
 .inputclass:hover{
     background-color: rgb(153, 171, 121);
     color: white;
