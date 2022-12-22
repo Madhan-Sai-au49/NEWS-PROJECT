@@ -109,3 +109,12 @@ button:hover{
     background-color: white;
     color: chocolate;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 9px;
+    padding: 9px;
+}
