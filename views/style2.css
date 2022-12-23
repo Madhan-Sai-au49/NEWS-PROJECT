@@ -6,7 +6,7 @@
     }
 
 img{
-    width:400px;
+    width:fit-content;
     height:400px;
     border-radius: 22px;
     margin-bottom: 5px; 
