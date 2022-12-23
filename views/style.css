@@ -2,6 +2,7 @@
 background-color: rgb(173, 214, 215);
 color: blue;
 padding: 20px;
+width: 100%;
 }
 
 label{
@@ -15,7 +16,7 @@ label{
 }
 
 input, select{
-    width: 400px;
+    width: min -content;
     height: 50px;
     color: crimson;
     font-weight: bold;
@@ -33,22 +34,18 @@ b{
 }
 
 textarea{
+    width: min-content;
     border-radius: 15px;
     color:darkblue;
     font-size: large;
     font-weight: 400;
 }
 
-.NEWS{
-background-color:rgb(224, 185, 171);
-color:black;
-padding: 20px;
-}
-
 .heading{
   border: 2px solid black;
   background-color: black;
-  height: 110px;
+  height: 150px;
+  width: 100%;
   text-align: center;
   padding-top: 18px;
   color: white;
@@ -59,7 +56,7 @@ padding: 20px;
 }
 
 .heading2{
-    height:150px;
+    height:150px
 }
 
 .imglogo{
@@ -69,19 +66,13 @@ padding: 20px;
 }
 
 hr{
-    background-color: white;
+    background-color: rgb(83, 83, 212);
     height: 9px;
 }
 
 ul{
     margin-left: 40%;
     font-size: 20px;
-}
-img{
-    width: 500px;
-    height: 500px;
-    border-radius: 22px;
-    margin-bottom: 5px; 
 }
 
 .side{
@@ -117,4 +108,5 @@ footer{
     text-decoration: none;
     border-radius: 9px;
     padding: 9px;
+    width: 100%;
 }

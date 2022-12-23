@@ -1,0 +1,13 @@
+.NEWS{
+    background-color:rgb(224, 185, 171);
+    color:black;
+    padding: 20px;
+    width:100%;
+    }
+
+img{
+    width:min-content;
+    height: min-content;
+    border-radius: 22px;
+    margin-bottom: 5px; 
+}
