@@ -6,8 +6,8 @@
     }
 
 img{
-    width:min-content;
-    height: min-content;
+    width:max-content;
+    height: max-content;
     border-radius: 22px;
     margin-bottom: 5px; 
 }
